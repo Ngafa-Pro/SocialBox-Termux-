@@ -19,3 +19,4 @@ chmod +x install-sb.sh
 para qualquer sistema operacional:
 
     socialbox
+![sb](https://user-images.githubusercontent.com/75740176/103480954-a5ca4e00-4dcf-11eb-987f-16cc02d88252.png)
